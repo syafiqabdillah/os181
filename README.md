@@ -8,3 +8,5 @@ ZCZC W02 bahasa c sangat menyenangkan
 ZCZC W03 sudah mencoba lab
 
 ZCZC W04 Done
+
+ZCZC W05 Melihat lihat demo
